@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear habitos.
 
-- [Visite o projeto online](github.com/Almarquest/nlwsetup)
+- [Visite o projeto online](https://Almarquest.github.io/nlwsetup/)
 
 ## 🔖 Layout
 
